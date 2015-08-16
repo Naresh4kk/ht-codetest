@@ -1,0 +1,4 @@
+
+start --> npm install express -g
+scaffolding --> express 
+fill-in-gaps-glue the scaffoldings -->npm install -d
